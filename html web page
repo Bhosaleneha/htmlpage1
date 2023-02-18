@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   	 <title>My first web page</title>
+   	</head>
+   	<body>
+   		<!--1.Text tags-->
+   		 <h1>This is h1</h1>
+          <hr>
+   		 <h2>This is h2</h2>
+   		 <h3>This is h3</h3>
+          <br><br>
+
+   		 <h4>This is h4</h4>
+   		 <h5>This is h5</h5>
+   		 <h6>This is h6</h6>
+          <p>lorem ipsum dolug fghb ctyjnmnbr <br>ggvjn gdsekb crsmjn drtuh fsfdjn dfjn   shvk cfxstfyhbvcttdugjv gfumb  zwtcv  nehba vijay bhosaklr neha nbhp neha bhosale neha bhoale neha bhosale neha bhosale vijay neha bhosale vijay neha vijay bhosa vihnm vgfjb vfsdc iytsghkn xdbh knmgfc fdrdygvb xfghb vhbmn hbjhj hvhjlkm ffyghb fsdfhjm tfesfgb juklkmn dsxjv jhgjnjn vhjk yguihjb ctfythikjn ddfdhuv gduljm vtuhb dtfg fihbnk vhjjj vhjb gi gonk njnpn vd j hhlnlk vklk kjmnn bjhhk bjkljn bhbhln vbljl ugkiln dtdsd cfyghknm, bjlm hrsjlin gyglkjnvyu gcfzs hjgojm cgvigh vnjkv kjhlobm bhfbvjh hvlbn gfuokmn ftrsv hjgiuk jhlj jbihjnb cgijlk,mb ghvhugohb gctyszdfiuhj xhnvk hhlhj  </p>
+          <ul>
+             <li>Item 1</li>
+             <li>Item 2</li>
+             <li>Item 3</li>
+          </ul>
+           <ol>
+             <li>Item 1</li>
+             <li>Item 2</li>
+             <li>Item 3</li>
+          </ol>
+          <!-- Image -->
+          <img src="https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742__340.jpg"><br>
+
+          <img src="laptop.avif" width="500"><br>
+          
+          2. Audio video
+          <br>
+          <audio controls>
+            <source src="audio.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+       </audio>
+       <video width="320" height="240" controls>
+        <source src="video.mp4" type="video/mp4">
+         Your browser does not support the video tag.
+    </video>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ayWd44asH4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <!-- 3. Advance HTML -->
+    <!-- Tables-->
+    <table border="1">
+       <thead>
+         <tr>
+         <th>Name</th>
+         <th>Phone</th>
+         <th>Email</th>
+         </tr>
+          
+        </thead>
+       <tbody>
+         <tr>
+         <td>My captain</td>
+         <td> 2563148952</td>
+         <td>yahoo@gmail.com</td>
+          </tr>
+       </tbody>
+    </table>
+    <!-- Forms -->
+    <FORM>
+       <label></label>
+       <input type="Text" name="">
+       <input type="button">
+<input type="submit"value="submit"><br>
+<input type="color"><br>
+<input type="date"><br>
+<input type="datetime-local"><br>
+<input type="email"><br>
+<input type="file"><br>
+<input type="hidden"><br>
+<input type="image"><br>
+<input type="month"><br>
+<input type="number"><br>
+<input type="password"><br>
+<input type="radio"><br>
+<input type="range"><br>
+<input type="reset"><br>
+<input type="search"><br>
+<input type="submit"><br>
+<input type="tel"><br>
+<input type="text"><br>
+<input type="time"><br>
+<input type="url"><br>
+<input type="week"><br><br>
+    </FORM>
+    <form>
+      <label>Enter your email</label>
+       <input type="email" name="user_name"placeholder="Enter email"><br>
+       <label>enter your password</label>
+       <input type="password" name="user_password" placeholder="enter user_password"><br>
+       <input type="submit" name="">
+    </form>
+ </body>
+ </html>
+  <!--3 Advance HTML-->
+   		   
+   	</body>
+   	</html>
